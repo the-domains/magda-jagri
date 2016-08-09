@@ -10,7 +10,18 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/4903a662-1b07-4d71-83d0-ca6683fa8f86.png
 layout_spectrum: 0.9138594032265246
+author:
+  name: Magda Jagri
+  email: magda@magdajagri.com
+  url: www.magdajagri.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fc80b88-5f1c-4c00-9e7a-f5357d4bf138.png
 name: MAGDA JAGRI
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6663460e-5784-4f25-b4ad-3603809e3e40.png
 title: MAGDA JAGRI
 description: Welcome
