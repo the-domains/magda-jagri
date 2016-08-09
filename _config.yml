@@ -1,19 +1,19 @@
-typography_spectrum: 0.7578633297234774
+typography_spectrum: 0.018336109584197402
 color:
-  brandStrength: 0.43613682105205953
-  lightness: 0.5730698895640671
-  saturation: 0.37524213385768235
-  rhythmicContrast: 0.5343994584400207
+  brandStrength: 0.16157935606315732
+  lightness: 0.3801460126414895
+  saturation: 0.008538103895261884
+  rhythmicContrast: 0.8944173671770841
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/4903a662-1b07-4d71-83d0-ca6683fa8f86.png
-layout_spectrum: 0.9138594032265246
+layout_spectrum: 0.5672922844532877
 author:
   name: Magda Jagri
   email: magda@magdajagri.com
